@@ -25,9 +25,9 @@
     "test:coverage": "node --experimental-vm-modules node_modules/.bin/jest --coverage"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.15.1",
+    "@modelcontextprotocol/sdk": "1.32.2",
     "express": "^5.1.0",
-    "zod": "^3.22.4"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@jest/globals": "^30.0.4",
